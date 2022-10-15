@@ -1,0 +1,14 @@
+C:\pruebaItsense\pruebaItsense\itSenseDomain\bin\Debug\net6.0\itSenseDomain.deps.json
+C:\pruebaItsense\pruebaItsense\itSenseDomain\bin\Debug\net6.0\itSenseDomain.dll
+C:\pruebaItsense\pruebaItsense\itSenseDomain\bin\Debug\net6.0\itSenseDomain.pdb
+C:\pruebaItsense\pruebaItsense\itSenseDomain\obj\Debug\net6.0\itSenseDomain.csproj.AssemblyReference.cache
+C:\pruebaItsense\pruebaItsense\itSenseDomain\obj\Debug\net6.0\itSenseDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\pruebaItsense\pruebaItsense\itSenseDomain\obj\Debug\net6.0\itSenseDomain.AssemblyInfoInputs.cache
+C:\pruebaItsense\pruebaItsense\itSenseDomain\obj\Debug\net6.0\itSenseDomain.AssemblyInfo.cs
+C:\pruebaItsense\pruebaItsense\itSenseDomain\obj\Debug\net6.0\itSenseDomain.csproj.CoreCompileInputs.cache
+C:\pruebaItsense\pruebaItsense\itSenseDomain\obj\Debug\net6.0\itSenseDomain.dll
+C:\pruebaItsense\pruebaItsense\itSenseDomain\obj\Debug\net6.0\refint\itSenseDomain.dll
+C:\pruebaItsense\pruebaItsense\itSenseDomain\obj\Debug\net6.0\itSenseDomain.pdb
+C:\pruebaItsense\pruebaItsense\itSenseDomain\obj\Debug\net6.0\ref\itSenseDomain.dll
+C:\pruebaItsense\pruebaItsense\itSenseDomain\bin\Debug\net6.0\itSenseDomain.runtimeconfig.json
+C:\pruebaItsense\pruebaItsense\itSenseDomain\obj\Debug\net6.0\itSenseDomain.genruntimeconfig.cache

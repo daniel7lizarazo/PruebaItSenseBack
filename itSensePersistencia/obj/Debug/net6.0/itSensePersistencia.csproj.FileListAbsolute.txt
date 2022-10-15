@@ -1,0 +1,17 @@
+C:\pruebaItsense\pruebaItsense\itSensePersistencia\bin\Debug\net6.0\itSensePersistencia.deps.json
+C:\pruebaItsense\pruebaItsense\itSensePersistencia\bin\Debug\net6.0\itSensePersistencia.runtimeconfig.json
+C:\pruebaItsense\pruebaItsense\itSensePersistencia\bin\Debug\net6.0\itSensePersistencia.dll
+C:\pruebaItsense\pruebaItsense\itSensePersistencia\bin\Debug\net6.0\itSensePersistencia.pdb
+C:\pruebaItsense\pruebaItsense\itSensePersistencia\bin\Debug\net6.0\itSenseDomain.dll
+C:\pruebaItsense\pruebaItsense\itSensePersistencia\bin\Debug\net6.0\itSenseDomain.pdb
+C:\pruebaItsense\pruebaItsense\itSensePersistencia\obj\Debug\net6.0\itSensePersistencia.csproj.AssemblyReference.cache
+C:\pruebaItsense\pruebaItsense\itSensePersistencia\obj\Debug\net6.0\itSensePersistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\pruebaItsense\pruebaItsense\itSensePersistencia\obj\Debug\net6.0\itSensePersistencia.AssemblyInfoInputs.cache
+C:\pruebaItsense\pruebaItsense\itSensePersistencia\obj\Debug\net6.0\itSensePersistencia.AssemblyInfo.cs
+C:\pruebaItsense\pruebaItsense\itSensePersistencia\obj\Debug\net6.0\itSensePersistencia.csproj.CoreCompileInputs.cache
+C:\pruebaItsense\pruebaItsense\itSensePersistencia\obj\Debug\net6.0\itSensePersistencia.csproj.CopyComplete
+C:\pruebaItsense\pruebaItsense\itSensePersistencia\obj\Debug\net6.0\itSensePersistencia.dll
+C:\pruebaItsense\pruebaItsense\itSensePersistencia\obj\Debug\net6.0\refint\itSensePersistencia.dll
+C:\pruebaItsense\pruebaItsense\itSensePersistencia\obj\Debug\net6.0\itSensePersistencia.pdb
+C:\pruebaItsense\pruebaItsense\itSensePersistencia\obj\Debug\net6.0\itSensePersistencia.genruntimeconfig.cache
+C:\pruebaItsense\pruebaItsense\itSensePersistencia\obj\Debug\net6.0\ref\itSensePersistencia.dll
